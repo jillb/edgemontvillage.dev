@@ -1,0 +1,13 @@
+/*
+Theme Name:     Edgmont Village
+Description:    Child Theme of Increase
+Author:         Atef
+Template:       increase
+Version:        0.1.0
+*/
+
+@import url("../increase/style.css");
+
+body {
+    background: #0000DD !important;
+}
